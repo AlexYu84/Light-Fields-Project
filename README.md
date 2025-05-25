@@ -1,0 +1,3 @@
+# Light Fields Project
+
+This project involved creating a light field dataset by capturing a video of a static tabletop scene using a zig-zag camera motion to simulate multiple viewpoints. The scene included everyday objects placed at varying depths, and the video was recorded under consistent lighting with a steady hand to avoid motion artifacts. A Python script was developed to extract individual frames, convert them to grayscale, and save them as image files. A subset of these frames was arranged in a grid layout to approximate the spatial layout of the camera path, setting the stage for further light field reconstruction and analysis.
